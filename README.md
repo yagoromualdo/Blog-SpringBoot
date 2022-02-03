@@ -1,8 +1,6 @@
 # CodeBlog
 
-### Essa página foi desenvolvida usando Spring Boot e Java<br/>
-(Peço que ignorem os nomes dos commits, na época eu colocava nomes qualquer).<br/><br/>
-
+### Esse blog foi desenvolvido com Spring Boot e Java<br/>
 
 ### Link do vídeo mostrando o funcionamento da página:<br/> 
 https://youtu.be/Rin8YK0pjo0<br/><br/>
